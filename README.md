@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanskriti
 - 👀 I’m interested in AI and data science 
-- 🌱 I’m currently learning DSA and JAVASCRIPT .
+- 🌱 I’m currently exploring opensource and ml .
 - 💞️ I’m looking to collaborate on anything that interests me.
 - 📫 How to reach me (https://www.linkedin.com/in/sanskriti-arora-452454293/)
 
